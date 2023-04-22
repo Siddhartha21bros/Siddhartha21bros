@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddhartha21bros
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c programming
+- 🌱 I’m currently learning python programming and its frameworks(Django) to be able ton work on web development projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I am currently learning Flutter
